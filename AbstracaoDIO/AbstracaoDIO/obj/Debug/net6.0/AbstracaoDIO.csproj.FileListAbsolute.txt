@@ -1,0 +1,15 @@
+C:\Users\vinim\OneDrive\Área de Trabalho\dio\AbstracaoDIO\AbstracaoDIO\bin\Debug\net6.0\AbstracaoDIO.exe
+C:\Users\vinim\OneDrive\Área de Trabalho\dio\AbstracaoDIO\AbstracaoDIO\bin\Debug\net6.0\AbstracaoDIO.deps.json
+C:\Users\vinim\OneDrive\Área de Trabalho\dio\AbstracaoDIO\AbstracaoDIO\bin\Debug\net6.0\AbstracaoDIO.runtimeconfig.json
+C:\Users\vinim\OneDrive\Área de Trabalho\dio\AbstracaoDIO\AbstracaoDIO\bin\Debug\net6.0\AbstracaoDIO.dll
+C:\Users\vinim\OneDrive\Área de Trabalho\dio\AbstracaoDIO\AbstracaoDIO\bin\Debug\net6.0\ref\AbstracaoDIO.dll
+C:\Users\vinim\OneDrive\Área de Trabalho\dio\AbstracaoDIO\AbstracaoDIO\bin\Debug\net6.0\AbstracaoDIO.pdb
+C:\Users\vinim\OneDrive\Área de Trabalho\dio\AbstracaoDIO\AbstracaoDIO\obj\Debug\net6.0\AbstracaoDIO.csproj.AssemblyReference.cache
+C:\Users\vinim\OneDrive\Área de Trabalho\dio\AbstracaoDIO\AbstracaoDIO\obj\Debug\net6.0\AbstracaoDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinim\OneDrive\Área de Trabalho\dio\AbstracaoDIO\AbstracaoDIO\obj\Debug\net6.0\AbstracaoDIO.AssemblyInfoInputs.cache
+C:\Users\vinim\OneDrive\Área de Trabalho\dio\AbstracaoDIO\AbstracaoDIO\obj\Debug\net6.0\AbstracaoDIO.AssemblyInfo.cs
+C:\Users\vinim\OneDrive\Área de Trabalho\dio\AbstracaoDIO\AbstracaoDIO\obj\Debug\net6.0\AbstracaoDIO.csproj.CoreCompileInputs.cache
+C:\Users\vinim\OneDrive\Área de Trabalho\dio\AbstracaoDIO\AbstracaoDIO\obj\Debug\net6.0\AbstracaoDIO.dll
+C:\Users\vinim\OneDrive\Área de Trabalho\dio\AbstracaoDIO\AbstracaoDIO\obj\Debug\net6.0\ref\AbstracaoDIO.dll
+C:\Users\vinim\OneDrive\Área de Trabalho\dio\AbstracaoDIO\AbstracaoDIO\obj\Debug\net6.0\AbstracaoDIO.pdb
+C:\Users\vinim\OneDrive\Área de Trabalho\dio\AbstracaoDIO\AbstracaoDIO\obj\Debug\net6.0\AbstracaoDIO.genruntimeconfig.cache
